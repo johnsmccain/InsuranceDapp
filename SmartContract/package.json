@@ -1,0 +1,24 @@
+{
+  "name": "smartcontract",
+  "version": "1.0.0",
+  "description": "Decentralised financing (DeFi) has created a need for new forms of insurance. Large cryptocurrency deposits can be stolen or devalued within minutes. Smart contracts can contain unforeseen errors, making any funds they contain permanently unavailable. These risks require a new insurance system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "John Danlami",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnsmccain/InsuranceDapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnsmccain/InsuranceDapp/issues"
+  },
+  "homepage": "https://github.com/johnsmccain/InsuranceDapp#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.7"
+  }
+}
